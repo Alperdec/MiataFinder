@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS cars;
+CREATE TABLE cars(id VARCHAR(17), locationName VARCHAR(255), modelYear VARCHAR(4), dateAdded TIMESTAMPTZ);

@@ -1,0 +1,16 @@
+{
+  "name": "miatafinder",
+  "version": "1.0.0",
+  "description": "Help's Garret Find a Miata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alper deCarion",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "pg": "^8.8.0",
+    "twilio": "^3.83.4"
+  }
+}
