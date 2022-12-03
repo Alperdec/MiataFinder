@@ -1,7 +1,7 @@
 {
   "name": "miatafinder",
   "version": "1.0.0",
-  "description": "Help's Garret Find a Miata",
+  "description": "Helps Garret Find a Miata",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
